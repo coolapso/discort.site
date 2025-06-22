@@ -36,7 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/4s3tibg.gif': 'center',
+							'images/bg.png': 'center',
 							//'images/bg02.jpg': 'center',
 							//'images/bg03.jpg': 'center'
 						},
